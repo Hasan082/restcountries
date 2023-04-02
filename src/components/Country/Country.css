@@ -1,0 +1,18 @@
+.single_country {
+    background-color: bisque;
+    color: #5e5151;
+    padding: 15px !important;
+    box-sizing: border-box;
+}
+
+.single_country *  {
+    margin: 0 0 10px !important;
+}
+
+.single_country > *:last-child {
+    margin-bottom: 0 !important;
+}
+
+.single_country img {
+    max-height: 90px;
+}
